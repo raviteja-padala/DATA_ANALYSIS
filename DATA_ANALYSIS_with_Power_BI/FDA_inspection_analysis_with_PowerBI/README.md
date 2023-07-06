@@ -1,5 +1,6 @@
 # FDA inspections Analysis
 
+The FDA's inspection program is an important tool for ensuring the safety and effectiveness of FDA-regulated products. The data from the FDA inspections and citations  can be used to identify areas where companies need to improve their compliance with FDA regulations.
 
 The FDA publishes a list of inspections and citations. An analysis of the inspections and citations reveals that the most common observations are related to:
 
@@ -7,7 +8,9 @@ Manufacturing: This includes problems with the company's manufacturing practices
 Quality policies: Quality system in place to address the deviations, and investigations .
 Training: Traning practices in place to educate working manpower towards Good Manufacturing Practices.
 
-The FDA's inspection program is an important tool for ensuring the safety and effectiveness of FDA-regulated products. The data from the FDA inspections and citations  can be used to identify areas where companies need to improve their compliance with FDA regulations.
+
+## What are FDA inspections?
+The Food and Drug Administration (FDA) conducts inspections and assessments of regulated facilities to determine a firm's compliance with applicable laws and regulations, such as the Food, Drug, and Cosmetic Act. This typically involves an investigator visiting a firm’s location.
 
 Here are some tips for companies that want to improve their compliance with FDA regulations:
 
