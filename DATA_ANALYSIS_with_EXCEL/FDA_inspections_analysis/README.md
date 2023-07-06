@@ -5,8 +5,6 @@
 The Food and Drug Administration (FDA) conducts inspections and assessments of regulated facilities to determine a firm's compliance with applicable laws and regulations, such as the Food, Drug, and Cosmetic Act. This typically involves an investigator visiting a firm’s location.
 
 
-The Food and Drug Administration (FDA) conducts inspections and assessments of regulated facilities to determine a firm's compliance with applicable laws and regulations, such as the Food, Drug, and Cosmetic Act and related Acts.
-
 FDA discloses a segment of inspection information to help improve the public’s understanding of how the FDA works to protect the public health. Disclosure of a firm’s inspection information encourages firm compliance and provides the public with an understanding of the Agency’s enforcement actions and an ability to make more informed marketplace choices.
 
 # Analysis of FDA inspections:
