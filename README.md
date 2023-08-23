@@ -6,11 +6,11 @@
 
 
 
-**`What Is Data Analysis?`**
+### **`What Is Data Analysis?`**
 
 Data analysis is the process of cleaning, analyzing, and visualizing data, with the goal of discovering valuable insights and driving smarter business decisions.
 
-**`Why Is Data Analysis Important?`**
+### **`Why Is Data Analysis Important?`**
 
 Data is everywhere: in spreadsheets, your sales pipeline, social media platforms, customer satisfaction surveys, customer support tickets, and more. In our modern information age, it’s created at blinding speeds and, when data is analyzed correctly, can be a company’s most valuable asset.
 
