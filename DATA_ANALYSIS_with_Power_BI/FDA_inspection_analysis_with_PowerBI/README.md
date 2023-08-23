@@ -9,7 +9,11 @@ Quality policies: Quality system in place to address the deviations, and investi
 Training: Traning practices in place to educate working manpower towards Good Manufacturing Practices.
 
 
-Link to Presentation:   [FDA Inspections Anlysis](https://www.canva.com/design/DAFsU4AFE20/2vdmRBThYPwIeEtFpDvgiA/edit?utm_content=DAFsU4AFE20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Link to Presentation:   [FDA Inspections Anlysis Presentation](https://www.canva.com/design/DAFsU4AFE20/2vdmRBThYPwIeEtFpDvgiA/edit?utm_content=DAFsU4AFE20&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Link to PDF: [FDA Inspection analysis PDF](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/DATA_ANALYSIS_with_Power_BI/FDA_inspection_analysis_with_PowerBI/FDA%20Inspection%20Analysis%20in%20the%20Indian%20Pharmaceutical%20Industry.pdf)
+
+Link to Dashboard: [FDA inspection analysis Dashboard](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/DATA_ANALYSIS_with_Power_BI/FDA_inspection_analysis_with_PowerBI/FDA_inspection-citations_analysis.pbix)
 
 
 ## What are FDA inspections?
@@ -31,26 +35,26 @@ FDA inspections are thorough evaluations conducted by the U.S. Food and Drug Adm
 **Why Analyze FDA Inspections:**
 Analyzing FDA inspections is crucial for various reasons:
 
-**`Business Need`:**
+## **`Business Need`:**
 1. **Compliance Assurance:** Businesses need to ensure that they are adhering to regulatory requirements to avoid regulatory actions, recalls, fines, and damage to their reputation.
 2. **Product Quality and Safety:** Regulatory compliance directly affects the quality and safety of products, which is vital for consumer trust and long-term success.
 3. **Operational Efficiency:** Insights from inspections help identify operational inefficiencies and areas for improvement.
 
-**`Insights to Gain`:**
+## **`Insights to Gain`:**
 1. **Regulatory Compliance:** Understand the degree of compliance with FDA regulations and identify areas of non-compliance.
 2. **Trends and Patterns:** Identify trends in inspection outcomes, such as common violations or areas that consistently need improvement.
 3. **Root Causes:** Discover the underlying causes of compliance issues to address them effectively.
 4. **Risk Assessment:** Assess potential risks to patient safety, product quality, and regulatory standing.
 5. **Industry Benchmarking:** Compare your company's performance with industry peers to gauge competitiveness.
 
-**`Actions to Take`:**
+## **`Actions to Take`:**
 1. **Corrective Actions:** Address violations promptly by implementing corrective actions based on inspection findings.
 2. **Process Improvements:** Use insights to enhance manufacturing, quality control, and distribution processes.
 3. **Training and Education:** Provide training to employees on regulatory requirements and good manufacturing practices.
 4. **Resource Allocation:** Allocate resources to rectify deficiencies and ensure compliance.
 5. **Communication:** Transparently communicate with regulatory agencies about actions taken to rectify issues.
 
-**`Benefits`:**
+## **`Benefits`:**
 1. **Risk Mitigation:** Proactively address compliance issues to mitigate risks of enforcement actions or recalls.
 2. **Reputation:** Consistent compliance enhances your company's reputation for product quality and safety.
 3. **Efficiency:** Streamlined processes based on inspection insights lead to operational efficiency gains.
@@ -59,6 +63,9 @@ Analyzing FDA inspections is crucial for various reasons:
 
 In summary, analyzing FDA inspections is crucial for maintaining compliance, ensuring product quality and safety, and driving operational excellence. It provides valuable insights that guide corrective actions, process improvements, and strategic decision-making.
 
+
+
+### Thank you.
 
 
 
