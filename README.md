@@ -20,7 +20,7 @@ Data is everywhere: in spreadsheets, sales pipeline, social media platforms, cus
 
 2. **Performance Improvement:** Analyzing data allows businesses to identify areas of improvement, optimize processes, and enhance overall performance. It can reveal inefficiencies, bottlenecks, or areas where resources can be allocated more effectively.
 
-3.**Competitive Advantage:** Data analysis can provide a competitive edge by uncovering market trends, customer preferences, and opportunities for innovation. It helps businesses stay ahead of competitors and adapt to changing market conditions.
+3. **Competitive Advantage:** Data analysis can provide a competitive edge by uncovering market trends, customer preferences, and opportunities for innovation. It helps businesses stay ahead of competitors and adapt to changing market conditions.
 
 4. **Customer Understanding:** Analyzing customer data enables businesses to better understand their target audience, tailor products and services to meet customer needs, and improve customer satisfaction and loyalty.
 
