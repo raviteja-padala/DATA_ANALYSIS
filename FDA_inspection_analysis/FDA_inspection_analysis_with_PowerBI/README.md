@@ -13,7 +13,7 @@ Link to Presentation:   [FDA Inspections Anlysis Presentation](https://www.canva
 
 Link to PDF: [FDA Inspection analysis PDF](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/DATA_ANALYSIS_with_Power_BI/FDA_inspection_analysis_with_PowerBI/FDA%20Inspection%20Analysis%20in%20the%20Indian%20Pharmaceutical%20Industry.pdf)
 
-Link to Dashboard: [FDA inspection analysis Dashboard](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/DATA_ANALYSIS_with_Power_BI/FDA_inspection_analysis_with_PowerBI/FDA_inspection-citations_analysis.pbix)
+Link to Dashboard: [FDA inspection analysis Dashboard](https://app.powerbi.com/groups/me/reports/5edaf0c9-b9bc-4d5a-90d2-102147ab894e/ReportSection?experience=power-bi)
 
 
 ## What are FDA inspections?
