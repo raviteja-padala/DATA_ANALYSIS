@@ -13,17 +13,18 @@ The World Health Organization (WHO) maintains a data of disease outbreak data, i
 
 2. Dominant Diseases:
    - "Ebola virus disease" emerged as the most frequent disease outbreak, occurring 89 times in the dataset. Other notable diseases included "MERS-CoV," "Yellow fever," and "Measles."
+![image](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/WHO_Disease_Outbreak_Analysis/images/top10dons.png) 
 
 3. Pathogen Analysis:
    - The dataset showed that viruses were responsible for the majority of disease outbreaks (321 outbreaks), followed by bacteria (30 outbreaks).
 
 4. Country Impact:
    - While there were 358 disease outbreaks during the analyzed period, only 112 unique countries experienced these outbreaks. Some countries faced multiple outbreaks, indicating varied vulnerability.
-![image](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/WHO_Disease_Outbreak_Analysis/country%20wise.png) 
+![image](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/WHO_Disease_Outbreak_Analysis/images/country%20wise.png) 
 
 5. Temporal Trends:
    - Year-wise analysis revealed fluctuations in disease outbreaks, with 2019 and 2022 seeing higher counts. Seasonal analysis pinpointed spikes in specific diseases during certain months, offering valuable insights into seasonal patterns.
-
+![image](https://github.com/raviteja-padala/DATA_ANALYSIS/blob/main/WHO_Disease_Outbreak_Analysis/images/year%20wise.png)
 6. Regional Impact:
    - We explored the year-wise disease outbreaks in select countries and observed declining trends in the Democratic Republic of the Congo and Saudi Arabia, with Nigeria showing fluctuations.
 
